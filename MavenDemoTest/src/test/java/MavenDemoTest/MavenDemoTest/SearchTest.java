@@ -7,6 +7,7 @@ public class SearchTest {
 		
 		System.out.println("testing is good plaform");
 		System.out.println("automation Testing");
+		
 
 	}
 
