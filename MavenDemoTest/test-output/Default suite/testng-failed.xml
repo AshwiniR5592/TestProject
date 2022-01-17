@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="MavenDemoTest.MavenDemoTest.Testapp">
+      <class name="MavenDemoTest.MavenDemoTest.BarcodeTest">
         <methods>
-          <include name="searchTest"/>
+          <include name="barcodetest"/>
         </methods>
-      </class> <!-- MavenDemoTest.MavenDemoTest.Testapp -->
+      </class> <!-- MavenDemoTest.MavenDemoTest.BarcodeTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
